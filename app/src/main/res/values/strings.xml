@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Final Project</string>
+    <string name="title_txt">Management</string>
+    <string name="store_btn">Manage Stores</string>
+    <string name="product_btn">Manage Products</string>
+    <string name="authorize_wrn">\n For authorized personnel only!</string>
+</resources>
